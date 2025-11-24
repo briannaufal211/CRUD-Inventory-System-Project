@@ -69,7 +69,7 @@ gudang = [
 2. Open the project folder in your IDE (VS Code, PyCharm, or IDLE).  
 3. Run the program using the command:
    ```bash
-   python main.py
+   Project_CRUD.py
    ```
 4. Login using default credentials:
    - **Username:** `Unilever`  

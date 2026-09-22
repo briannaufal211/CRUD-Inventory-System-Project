@@ -1,0 +1,6 @@
+[
+  {"kode":"UN40","brand":"Blue Band Margarine","stok":100,"harga":35000,"batch_awal":"AB030925A","batch_terbaru":"AB031225B","kategori":"FNB"},
+  {"kode":"UN20","brand":"Lifebuoy Body Wash","stok":150,"harga":25000,"batch_awal":"BC020725A","batch_terbaru":"BC080825B","kategori":"Kesehatan Pribadi"},
+  {"kode":"UN10","brand":"Rinso Anti Noda","stok":200,"harga":18000,"batch_awal":"CD200325C","batch_terbaru":"CD250525C","kategori":"Kebersihan"},
+  {"kode":"UN30","brand":"Clear Shampoo","stok":120,"harga":32000,"batch_awal":"DE180525C","batch_terbaru":"DE20025C","kategori":"Kosmetik"}
+]
